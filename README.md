@@ -1,5 +1,6 @@
 # StateBasedDelayRepresentation
 Simulation codes for the paper: State-Based Delay Representation and Its Transfer from a Game of Pong to Reaching and Tracking.
+https://doi.org/10.5281/zenodo.998050
 
 The attached .m files the simulations movements according to different delay representation models.
 To run the simulations, run the following files:
